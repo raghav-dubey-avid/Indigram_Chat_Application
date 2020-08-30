@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46557711839",
+    "firebase_url": "https://telegram-clone-6a6e0.firebaseio.com",
+    "project_id": "telegram-clone-6a6e0",
+    "storage_bucket": "telegram-clone-6a6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46557711839:android:a1f83b1529403d1716086a",
+        "android_client_info": {
+          "package_name": "com.raghav.telegramchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46557711839-56nai9a4mqd22vasgtc2jkcgat13jo0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raghav.telegramchatapp",
+            "certificate_hash": "066de9c39a51bd8d9b27a2936a2d3d0c2200ac61"
+          }
+        },
+        {
+          "client_id": "46557711839-rmf7v1t09id4lub2rrpfnf1l6p2q3bue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANVug33hqAech7DeU5-_-r9UHr1rQ9mt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46557711839-rmf7v1t09id4lub2rrpfnf1l6p2q3bue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
